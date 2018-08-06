@@ -1,0 +1,125 @@
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ffffff"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:layout_marginBottom="5dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:src="@drawable/grammer" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif-condensed"
+                android:paddingLeft="10dp"
+                android:text="Revise Grammer Rules"
+                android:textColor="#d84315"
+                android:textSize="18dp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text="TERMS"
+            android:textAlignment="center"
+            android:textColor="@color/appcolor"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+
+        <TextView
+            android:id="@+id/basictermtv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/customborderforgrammer"
+            android:elevation="4dp"
+            android:padding="12dp"
+            android:text="Basic Terms"
+            android:textColor="#131313"
+            android:textSize="20dp" />
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="TENSES"
+            android:textAlignment="center"
+            android:textColor="@color/appcolor"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+
+        <TextView
+            android:id="@+id/presenttensetv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/customborderforgrammer"
+            android:elevation="4dp"
+            android:padding="12dp"
+            android:text="Present Tense"
+            android:textColor="#131313"
+            android:textSize="20dp" />
+
+
+        <TextView
+            android:id="@+id/pasttensetv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/customborderforgrammer"
+            android:elevation="4dp"
+            android:padding="12dp"
+            android:text="Past Tense"
+            android:textColor="#131313"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/futuretensetv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/customborderforgrammer"
+            android:elevation="4dp"
+            android:padding="12dp"
+            android:text="Future Tense"
+            android:textColor="#131313"
+            android:textSize="20dp" />
+
+
+        <com.google.android.gms.ads.AdView xmlns:ads="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/adViewgrammer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            ads:adSize="BANNER"
+            ads:adUnitId="@string/bannerid">
+
+        </com.google.android.gms.ads.AdView>
+
+    </LinearLayout>
+
+
+</android.support.v4.widget.NestedScrollView>

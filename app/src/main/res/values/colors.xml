@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <color name="colorPrimary">#3a5981</color>
+    <color name="colorPrimaryDark">#2e496b</color>
+    <color name="colorAccent">#ffffff</color>
+    <color name="appcolor">#3a5981</color>
+    <color name="btncolor">#3a5981</color>
+    <color name="linecolor">#3a5981</color>
+    <color name="yellowshade">#F57F17</color>
+    <color name="colorRipple">#dfdfdf</color>
+
+</resources>

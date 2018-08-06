@@ -1,0 +1,200 @@
+1;word: Jolt ;(Jhatka) push or shake (someone or something) abruptly and roughly.;example: he jolts wake up after a nightmare.;na
+2;word : Flop ;fall, move, or hang in a loose and ungainly way.;example: Her hair flopped on her head due to air;https://i-cdn.phonearena.com/images/articles/270780-thumb/super-mario-flopping.jpg
+3;Monotony ;lack of variety and interest; tedious repetition and routine.;Example: We are trying to break the monotony here.;https://mappeenya.files.wordpress.com/2014/08/mg-road-monotony.jpg
+4;Evocative;bringing strong images, memories, or feelings to mind.;Example: this novel was evocative for me.;http://www.wineverygame.com/words/images/evocative.jpg
+5;Augment;make (something) greater by adding to it; increase.;example: my expenses are augmented from last year. ;na
+6;Recitation; the action of repeating something aloud from memory.;i remember the recitation of old songs;na
+7;paramount;more important than anything else; supreme.;Example: Efficiency is of paramount concern.;na
+8;pavement;footpath;i was walking on the pavement when i called you;https://www.designingbuildings.co.uk/w/images/8/8c/Pavement.jpg
+9;redundant;unnecessary ,needless;example: they are going to relocate in a redundant house;na
+10;ergo;therefore;i was hungry, ergo i stopped at eatery. ;na
+11;hitch ;problem;example: o my god, I can never code without a hitch.;na
+12;carve ;cut into slices to eat or cut (a hard material) in order to produce an object, design, or inscription.;example 1: grandmother carved the chicken for children. example 2: Names were carved on the trees.;https://img00.deviantart.net/98e7/i/2008/040/4/3/carve_tree__by_modestjess.jpg
+13;absurd;wildly unreasonable, illogical, or inappropriate.;By taking his side ever when you know he is wrong, you are being absurd.;na
+14;paradox;a seemingly absurd or contradictory statement or proposition which when investigated may prove to be well founded or true.;In movie ,paradox was created;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL8_jFKH3JwRvjC1SK1p7M4M5cVrkifeke9Lcw2g1zBcsR4kCgoQ
+15;resent;feel bitterness or indignation at (a circumstance, action, or person).;taina resented when i told about my new job.;http://tse1.mm.bing.net/th?id=OIP.lk-N_mtFfEU9LBBiGp_BpAC6Es&w=186&h=300&pid=1.1
+16;perspiration;the process of sweating.;I got itchy after the perspiration ;http://dlife.com/wp-content/uploads/2017/09/7-Causes-Excessive-Perspiration.jpg
+17;spoof;a humorous imitation of something, typically a film or a particular genre of film, in which its characteristic features are exaggerated for comic effect.;This movie was a really good spoof of politicians ;https://i.pinimg.com/originals/f9/11/45/f911453d45cd3f2e6df72f5031f3f04d.jpg
+18;doodling;scribble absent-mindedly.;i was doodling while attending that boring lecture.;https://i.ytimg.com/vi/CfJzrmS9UfY/hqdefault.jpg
+19;laxative;(chiefly of a drug or medicine) tending to stimulate or facilitate evacuation of the bowels.;His doctor prescribed him laxative drug for constipation.;https://www.dollartree.com/assets/product_images_2016/styles/xlarge/10097.jpg
+20;Trip;catch one's foot on something and stumble or fall.;Example: If stairs will be of 2 millimeter , Most people will trip;http://canacopegdl.com/images/stumble/stumble-8.jpg
+21;Proffer;hold out or put forward (something) to someone for acceptance.;Example i have never reneged a porffer of blood ever;http://etc.usf.edu/clipart/72400/72423/72423_rey_proffer_lg.gif
+22;reneged;go back on a promise, undertaking, or contract. or denial or abandoning someone;Example: he reneged on his promise;http://content.wisestep.com/wp-content/uploads/2015/10/renege-on-job-offer.jpg
+23;Toddler; A young child who is starting to walk;Example: I love watching toddlers :);http://mumsmag.com/media/cache/main_image/custom/domain_1/image_files/sitemgr_photo_5960.jpg
+24;Yearn;have an intense feeling of longing for something, typically something that one has lost or been separated from.;Example: Sam yearned to see his mom.;http://spiritualwisdommagazine.com/wp-content/uploads/2013/09/little-boy-praying.jpg
+25;Offspring;a person's child or children.;Example: Offspring of neighbors are very naughty ;http://thatslifesci.com.s3-website-us-east-1.amazonaws.com/public/UEX4OdfI1XvC93YpI5jzsg_img_3.png
+26;Patronize;treat with an apparent kindness which betrays a feeling of superiority;Example: Thanks for your patronizing concern;https://s3.amazonaws.com/lowres.cartoonstock.com/families-report_card-encouragement-parenting-hypocritical-report_cards-mban3957_low.jpg
+27;Kraken;an enormous mythical sea monster said to appear off the coast of Norway.;Example: I wanna see kraken ;https://www.hextcg.com/wp-content/uploads/2016/11/Old-Kraken-Art.jpg
+28;Unleash;release (a dog) from a leash.;Example: breaking of the diamond can unleash the monster;https://engineering.patriotsoftware.com/wp-content/uploads/2016/03/unleash-potential-rs11411.jpg
+29;Drifter;a person who is continually moving from place to place, without any fixed home or job.;Example: How can you live like a drifter;https://www.jackvettriano.com/wp-content/uploads/2015/01/the-drifter.jpg
+30;Extensive;covering or affecting a large area;Example: Extensive garden ;http://s0.geograph.org.uk/geophotos/02/07/49/2074922_0b2aece8.jpg
+31;Plethora;a large or excessive amount of something.;Example: There were plethora of people at the event;http://3.bp.blogspot.com/-rsEJT095yWE/VW8S_hwBljI/AAAAAAAAD38/JTtbNHo_Wdg/s1600/plethora.jpg
+32;chauffeur;a person employed to drive a private or hired car.;his chauffeur is very experienced;http://www.dreams.metroeve.com/wp-content/uploads/2017/04/dreams.metroeve_chauffeur-dreams-meaning.jpg
+33;Gait;a persons's manner of walking;Example: Athlete gait is different;http://www.footbionics.com/site/footbionics/images/gait%20cycle.jpg
+34;Cradle;hold gently and protectively;Example: she cradled the baby;http://www.yourdictionary.com/images/definitions/lg/12116.cradle.jpg
+35;Trail;a mark or a series of signs or objects left behind by the passage of someone or something.;Example: kids left a trail of breadcrumb behind them;http://1.bp.blogspot.com/-0Qp2wV_0zMo/TZDjhZzeidI/AAAAAAAAAwM/nbZ6XUh1m1Y/s640/IMG_8137.jpg
+36;silhouette ;the dark shape and outline of someone or something visible in restricted light against a brighter background.;Example: She clicked photo of silhouette.;http://www.pxleyes.com/blog/wp-content/uploads/silhouettes/3.jpg
+37;Intrude;put oneself deliberately into a place or situation where one is unwelcome or uninvited.;Example: he should not intrude into their private matters.;http://www.monitor.co.ug/image/view/-/1714160/highRes/473495/-/maxw/600/-/kqc3ai/-/Fw06pix.jpg
+38;Nick;a small cut or notch. ;Example: he nicked himself while playing;https://thumbs.dreamstime.com/z/notch-tree-ax-nick-conifers-effects-leaking-resin-54485475.jpg
+39;resentment;bitter indignation at having been treated unfairly.;she showed resentment after the argument;http://www.constructivecoaching.com/wp-content/uploads/2016/12/pout.jpg
+40;Riddle;a question or statement intentionally phrased so as to require ingenuity in ascertaining its answer or meaning;i love to solve riddles.;http://oddmenot.com/wp-content/uploads/2017/03/which-tank-will-fill-first-picture-riddle-6-tank-version.jpg
+41;Verdict ;a decision on an issue of fact in a civil or criminal case or an inquest.;Example: she was not found guilty according to the verdict.;https://smartvocab.in/wordpicture/196754.jpg
+42;Plea;a request made in an urgent and emotional manner.;Example: Hey accepted the plea by children.;http://www.peppertt.com/wp-2013/wp-content/uploads/2016/10/Beg.jpg
+43;Impaired;weakened or damaged.;Example: you work is impaired;https://virtualacademy.com/wp-content/uploads/2016/06/law-enforcement-hearing-loss-782x520.jpg
+44;Inedpitude;lack of skill or ability.;Example: His ineptitude irritate me;http://partnersinexcellenceblog.com/wp-content/uploads/2015/03/failure.jpg
+45;vex;make (someone) feel annoyed, frustrated, or worried, especially with trivial matters.;Example: his ignorance is vexing ;https://drgreene.com/wp-content/uploads/ADHD-and-Atomoxetine.jpg
+46;Botch;carry out (a task) badly or carelessly.;Example: Detective botched the case;https://pbs.twimg.com/profile_images/1679572121/BOTCH1_400x400.jpg
+47;interrogate;ask questions of (someone) closely, aggressively, or formally.;He confessed his crime when interrogated.;http://www.yourdictionary.com/images/definitions/lg/6338.interrogation.jpg
+48;Veteran;a person who has had long experience in a particular field.;He is a veteran Cop;https://eastpdxnews.com/images/110909/2-1-Manougian.jpg
+49;ransack;go through (a place) stealing things and causing damage.;Thief ransacked her apartment while stealing. ;http://c3.thejournal.ie/media/2013/11/products-390x285.jpg
+50;diligence;careful and persistent work or effort.;he was doing diligence ;https://i.ytimg.com/vi/U9vzEgsOC64/maxresdefault.jpg
+51;Abducted ;take (someone) away illegally by force or deception; kidnap.;Man abducted a girl yesterday;https://a.wattpad.com/cover/106334-352-k396876.jpg
+52;concoct;make (a dish or meal) by combining various ingredients.;you concocted a method to save yourself;http://images.digopaul.com/wp-content/uploads/related_images/2015/09/09/concocted_1.jpg
+53;exculpate;show or declare that (someone) is not guilty of wrongdoing.;you did the crime, you are just exculpating ;https://img.tfd.com/wn/39/65CBE-exculpation.png
+54;disseminate;spread (something, especially information) widely.;kindly disseminate this message;http://peshes.ius.bg.ac.rs/img/diss.jpg
+55;lambaste;criticize (someone or something) harshly.;she lambaste him this morning ;https://photos.myjoyonline.com/photos/news/201710/8589710065991_9591027249426.jpg
+56;comeuppance;a punishment or fate that someone deserves.;sam is giving his comeuppance ;http://1.bp.blogspot.com/-8JLfdRuj83k/TppXFbxPUjI/AAAAAAAACdk/9wiTQakpCb8/s320/images.jpg
+57;Cynical;believing that people are motivated purely by self-interest; distrustful of human sincerity or integrity.;The world is a cynical place.;https://img.buzzfeed.com/buzzfeed-static/static/2014-05/campaign_images/webdr05/14/21/problems-all-cynical-people-will-understand-1-30210-1400116787-23_big.jpg
+58;Athieist;a person who disbelieves or lacks belief in the existence of God or gods;A friend of mine is Atheist;https://img.etimg.com/thumb/msid-60177330,width-643,imgsize-51023,resizemode-4/are-you-an-atheist-heres-how-your-facebook-profile-can-reveal-it.jpg
+59;Colloquial;(of language) used in ordinary or familiar conversation; not formal or literary.;Will you please stop speaking colloquial slang.;https://reallifeglobal.com/wp-content/uploads/2013/04/Screenshot-2016-12-27-18.39.46.png
+60;Dotard;an old person, especially one who has become weak or senile.;Kid called that uncle a dotard;https://media.gq.com/photos/59c52c9e62715a531f7d1fb6/3:2/w_560/2017-09_GQ_Dotard_3x2.jpg
+61;Furrow;a long, narrow trench made in the ground by a plough, especially for planting seeds or irrigation;Framer was furrowing the land.;http://coastbotanicalgarden.org/wp-content/uploads/2015/12/furrows.jpg
+62;Instigator;a person who brings about or initiates something.;after the discussion, Sam was declared instigator of the incident;https://www.studentnewsdaily.com/wp-content/uploads/2017/04/poke-it-again_Lisa-Benson.jpg
+63;Misnomer;a wrong or inaccurate name or designation.;Her health is fine, Calling her thin is misnomer.;http://www.thewebsitearchitects.com/wp-content/uploads/2011/12/onewaytwoarrowssign-300x232.jpg
+64;Percipient;having good insight or understanding; perceptive;As a percipient, she will provide a solution. ;https://pbs.twimg.com/profile_images/931167318666895361/TY7lEO0j_400x400.jpg
+65;Quaff; drink (something, especially an alcoholic drink) heartily;He quaffed drinks in bar;https://cdn.powder.com/uploads/2015/08/quaff-slide7-bg_d.jpg
+66;Staunch; very loyal and committed in attitude.;A staunch employee can be an asset for organization.;https://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-stay-staunch.png
+67;Vilification;abusively disparaging speech or writing.;He got angry with the vilification of his friends ;http://www.abc.net.au/radionational/image/5321194-3x2-340x227.jpg
+68;Atrophy;(of body tissue or an organ) waste away, especially as a result of the degeneration of cells, or become vestigial during evolution;his nerves will atrophy;https://image.slidesharecdn.com/muscleatrophyfinaledition2-160325180606/95/skeletal-muscle-atrophy-13-638.jpg
+69;Collusion;secret or illegal cooperation or conspiracy in order to deceive others.;John was working in collusion with police officers;https://www.risk.net/sites/risk/files/styles/landscape_750_463/public/import/IMG/950/89950/collusion.jpg
+70;drawl;speak in a slow, lazy way with prolonged vowel sounds.;She was drawling after waking up when i talked to her;http://assets-jpcust.jwpsrv.com/thumbs/sXUTTZhX.jpg
+71;Furtive;attempting to avoid notice or attention, typically because of guilt or a belief that discovery would lead to trouble; secretive.;You have to be furtive when you go to office to get information to avoid any troubles;https://cydneeg.files.wordpress.com/2014/09/beatcrime.jpg
+72;Insurgent;a person fighting against a government or invading force; a rebel or revolutionary.;In the movie, hero fought with insurgents.;https://www.merriam-webster.com/assets/mw/images/gallery/gal-wap-slideshow-slide/insurgents-raising-guns-1103@1x.jpg
+73;misogynist;a person who dislikes, despises, or is strongly prejudiced against women.;There is no place for a misogynist here;http://balleralert.com/wp-content/uploads/2016/10/Broelmanmisogynist_JUN7.jpg
+74;Perdition;(in Christian theology) a state of eternal punishment and damnation into which a sinful and unrepentant person passes after death.;I want to enjoy fully before perdition;https://visionofgodrecords.com/wp-content/uploads/2018/02/Temple-of-Perdition-Cover.jpg
+75;Quagmire;a soft boggy area of land that gives way underfoot.;To reach to the farmhouse, visitors had to pass the quagmire;http://3.bp.blogspot.com/-HrClQYYETPw/Vh61mLolguI/AAAAAAAAEDc/nDqK2ruLe7o/s1600/Quagmire_-_geograph.org.uk_-_1425200.jpg
+76;Stereotype;a widely held but fixed and oversimplified image or idea of a particular type of person or thing.;I am just not the type who follows stereotypes;http://momentousinstitute.org/assets/site/blog/why-stereotypes-are-harmful-header.jpg
+77;Vindicate;clear (someone) of blame or suspicion.;Sherlock vindicated the man from the murder suspicion ;https://i.ytimg.com/vi/xvpSwNlYiB8/maxresdefault.jpg
+78;Banality;the fact or condition of being banal; unoriginality.;There is banality in his explanation of the incident;http://www.azquotes.com/picture-quotes/quote-my-whole-being-was-seeking-for-something-still-unknown-which-might-confer-meaning-upon-carl-jung-39-26-85.jpg
+79;Condesend;show that one feels superior; be patronizing.;Are you not tired of being condesending;http://www.ncourtenaychurchofchrist.com/wp-content/uploads/2015/08/condescending.jpg
+80;Eccentric;(of a person or their behaviour) unconventional and slightly strange, unusual, quirky, odd;She might be impressed with his eccentric behaviour. ;https://www.newtonhypnosis.com/wp-content/uploads/2013/09/h8.jpg
+81;Gaunt;(of a person) lean and haggard, especially because of suffering, hunger, or age.;I saw a lot of gaunt makeup videos on the internet ;https://img00.deviantart.net/db30/i/2016/121/0/8/merope_gaunt_character_portrait_sketch_by_emmanuel_oquendo-da0hunj.png
+82;Inviolable ;never to be broken, infringed, or dishonoured, cannot be invaded;That particular are is inviolable ;http://2.bp.blogspot.com/_MZjRvOkWsvA/TNnawVg8xnI/AAAAAAAAAqc/O453TYEdpvo/s1600/600px-Hand_prohibition.PNG
+83;Morose;sullen and ill-tempered.gloomy;She was morose when she reached office;https://phocab-photos.s3.amazonaws.com/httpfc05deviantartnetfs70f201220434morose_mulan_by_kaikaru-d58ci97jpg.jpg
+84;Persnickety;placing too much emphasis on trivial or minor details, fastidious, fussy;I do not want to seem persnickety about my clothes;https://i.pinimg.com/originals/ed/a8/02/eda802ee3ed5941dcfdb15492c6240f9.jpg
+85;Ramification;a complex or unwelcome consequence of an action or event. subdivisions of a complex system;His actions in court can lead to ramifications.;https://www.xlnorth.com/wp-content/uploads/2017/05/ramifications.jpg
+86;Stringent;(of regulations, requirements, or conditions) strict, precise, and exacting. Severe;Stringent policies for security.;http://olwenwilliams.com/wp-content/uploads/2016/03/int-priv-633x452.jpg
+87;Volatile;(of a substance) easily evaporated at normal temperatures. dangerously unstable.;decisions are being taken for these volatile situations.;https://img.chandoo.org/g/volatile-functions-are-dynamite.jpg
+88;Banal;so lacking in originality as to be obvious and boring.;She finds her work banal;https://i.ytimg.com/vi/72sfgHuScu0/maxresdefault.jpg
+89;Concise;giving a lot of information clearly and in a few words; brief but comprehensive.;Recruiter asked me to be concise in the interview;http://1.bp.blogspot.com/-bLPVKKfLakE/T-0JWedUwXI/AAAAAAAAADI/Clp7TnY048o/s1600/Short-and-to-the-point.jpg
+90;Ebullient;cheerful and full of energy. Very lively;My friend was ebullient after the college;https://www.safirglobal.com/media/k2/items/cache/0b1ad7a7b79268a1f4558db78e092446_XL.jpg
+91;Garrulous;excessively talkative, especially on trivial matters.;sunny is a garrulous colleague;https://learnbookme.files.wordpress.com/2016/12/garrulous.jpg
+92;Invidious;(of an action or situation) likely to arouse or incur resentment or anger in others. arousing envy;I really wanted to escape that invidious situaiton ;http://photos1.blogger.com/x/blogger2/7583/4389/400/801130/envy.jpg
+93;pernicious;having a harmful effect, especially in a gradual or subtle way. destructive.;Pernicious effects of taking drugs;http://images.slideplayer.com/38/10807115/slides/slide_5.jpg
+94;Ramble;walk for pleasure in the countryside. wander aimlessly;Why are you rambling in the garden area;http://rohantime.com/wp-content/uploads/Countryfile-Ramble.jpg
+95;Strident;(of a sound) loud and harsh; grating.;I can not listen to his strident voice anymore;https://tv-fanatic-res.cloudinary.com/iu/s--iLc6bNWg--/t_large_l/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1371216623/choking-bart.png
+96;Vociferous;expressing or characterized by vehement opinions; loud and forceful.;Political leader was vociferous;https://nicemen.files.wordpress.com/2015/03/vociferous-woman-skmclasses-bangalore.jpg
+97;Aversion;a strong dislike or disinclination.;Aversion of most children is green vegetables;http://i.dailymail.co.uk/i/pix/2014/02/13/article-0-04C282170000044D-207_306x423.jpg
+98;Concatenation;a series of interconnected things.;Concatenation of events led to the disaster.;http://scienceblogs.com/goodmath/wp-content/blogs.dir/476/files/2012/04/i-4be4d99016e2ea69148df16e5e745a17-concat.png
+99;Dupe;deceive, trick, to fool someone.;His friends duped him to go to the library.;http://www.repmanblog.com/wp-content/uploads/2015/01/peanuts-lucy-charlie-brown-football.jpg
+100;Garish;obtrusively bright and showy, lurid, gaudy;I was thinking about purchasing a garish dress;http://ourfrontcover.com/wp-content/uploads/2016/11/kitch-ban.png
+101;Intrepid;fearless, adventurous (often used for rhetorical or humorous effect), brave;Sherlock is Intrepid.;https://www.intrepidtravel.com/sites/intrepid/files/basic_page/files/FB_1200x630__0005_Be-Fearless_Hero-Patagonia_-0076.jpg
+102;Monotonous;dull, tedious, and repetitious, lacking in variety and interest.;I do not wish to attend his monotonous class.;http://www.ehstoday.com/sites/ehstoday.com/files/uploads/2013/03/Bored.jpg
+103;Peripheral;relating to or situated on the edge or periphery of something, not important;I am downing drivers of this peripheral device;http://www.phenoptix.co.uk/wp-content/uploads/2016/05/ds00537_im03110_r7_graftbypassthu_jpg.jpg
+104;Querulous;complaining in a rather petulant or whining manner.;Some kids are querulous;http://www.yourdictionary.com/images/definitions/lg/13024.querulous.jpg
+105;Stolid;calm, dependable, and showing little emotion or animation;Mr spock was stolid man.;http://3.bp.blogspot.com/-sONxuf-FfzE/VBkd35pwufI/AAAAAAAAQa0/hpE-5jgeNdE/s1600/stolid.jpg
+106;Vivacity;(especially in a woman) the quality of being attractively lively and animated.;Some of his designs shows vivacity.;https://www.doomraiser.net/wp-content/uploads/2018/04/Modern-Teenager-Colorful-Bedspreads.jpg
+107;Balk;hesitate or be unwilling to accept an idea or undertaking.;My colleague usually balk at meeting ;http://2.bp.blogspot.com/--qqXgU6NTb8/UKjQD_xbsmI/AAAAAAAABAQ/3obsY8erkVQ/s1600/Fairuza_Balk_02.jpg
+108;Conciliate;stop (someone) being angry or discontented, placate, end a dispute;concessions were made for conciliation.;https://lawnn.com/wp-content/uploads/2017/05/conciliation-proceedings.jpg
+109;Garner;gather or collect (something, especially information or approval).;Meet me in my office when you garner information.;https://ak0.picdn.net/shutterstock/videos/3137470/thumb/12.jpg
+110;Inveterate;having a particular habit, activity, or interest that is long-established and unlikely to change.;She is an inveterate smoker;http://pixdaus.com/files/items/pics/7/87/515787_112eda940c7e572f440ba9bdb5ae4ea9_large.jpg
+111;Moratorium;a temporary prohibition of an activity.;Government will apply moratorium on drugs.;https://mholloway63.files.wordpress.com/2014/10/vietnammoratorium.jpg
+112;Perjury;the offence of wilfully telling an untruth or making a misrepresentation under oath.;He is going to be arrested for perjury;https://i.ytimg.com/vi/WxD1UsxK-3I/hqdefault.jpg
+113;quirk;a peculiar aspect of a person's character or behavior.;His strange quirks make him attractive;https://s-i.huffpost.com/gen/2393614/images/o-WOMAN-QUIRK-facebook.jpg
+114;Stratagem;a plan or scheme, especially one used to outwit an opponent or achieve an end, plot, trick;they planned a stratagem that included 2 people.;http://www.stratageminternetmarketing.com/wp-content/uploads/2016/11/Stratagem-Internet-Marketing-Strategy2.jpg
+115;Vivify;make more lively or interesting; enliven.;Rachael bought a vivifying lotion. ;http://vivify-your-day.com/wp-content/uploads/2016/11/VYD-Sport.jpg
+116;Auspicious;conducive to success; favorable.;The most auspicious moment for marriage. ;http://www.bridetomum.com/wp-content/uploads/2015/10/Guide-to-choosing-an-auspicious-wedding-date-2016.jpg
+117;Compliant;disposed to agree with others or obey rules, especially to an excessive degree, acquiescent.;A Compliant child;https://i.ytimg.com/vi/Ozhp0fCH9Z0/maxresdefault.jpg
+118;Drone;make a continuous low humming sound, monotonous noise.;In the ground you can hear helicopters droning. ;https://i.ytimg.com/vi/rI3p3RAtGuE/maxresdefault.jpg
+119;Gambol;run or jump about playfully, leap;she gamboled towards the park;http://mba.webmaggu.com/wp-content/uploads/2014/12/gambol.jpg
+120;Intransigence;refusal to change one's views or to agree about something, stubborness;Intransigence can be used as trait in an employee.;https://42796r1ctbz645bo223zkcdl-wpengine.netdna-ssl.com/wp-content/uploads/2014/08/fist-1391444344Yrg-1281x612.jpg
+121;Modicum;a small quantity of a particular thing, especially something desirable or valuable.;People should at least modicum of responsibility towards society. ;http://www.azquotes.com/picture-quotes/quote-people-must-take-a-modicum-of-public-responsibility-for-each-other-even-if-they-have-jane-jacobs-70-8-0884.jpg
+122;Perfunctory;(of an action) carried out without real interest, feeling, or effort, superficial.;He gave perfunctory nod.;https://i.pinimg.com/originals/67/e5/e9/67e5e9acbae588e9a1e64e3dd541c9a4.jpg
+123;Quarantine;a state, period, or place of isolation in which people or animals that have arrived from elsewhere or been exposed to infectious or contagious disease are placed.;They are keeping the infected animals in quarantine.;https://i.kinja-img.com/gawker-media/image/upload/s--jfL51L2K--/c_scale,f_auto,fl_progressive,q_80,w_800/fqqs3dvcnbsiyrkwnram.jpg
+124;Stoic;a person who can endure pain or hardship without showing their feelings or complaining.;She is stoic ;http://areyouthemovement.com/wp-content/uploads/2016/07/spock-in-toga.jpg
+125;Vital;absolutely necessary, essential, alive, important;He is a vital girl;https://mobileidworld.com/assets/iStock_heart-rate-e1430928325321.jpg
+126;Austere;severe or strict in manner or attitude.;This is a painting by an austere artist.;http://cache.boston.com/resize/bonzai-fba/Globe_Photo/2009/01/16/1232164767_3655/539w.jpg
+127;Dubious;hesitating or doubting.;dean was dubious about the plan.;http://4.bp.blogspot.com/-Kmh8AwoY9a0/UGWqSblrqXI/AAAAAAAACPw/8wW5OSWFT4Y/s1600/3-dean-looks-dubious-and-adorable.jpg
+128;Garble; reproduce (a message, sound, or transmission) in a confused and distorted way.;garbled handwriting was difficult to understand;https://i.pinimg.com/originals/26/56/bf/2656bf9b0f3200f6a7bddd584666245d.jpg
+129;Momentous;of great importance or significance, especially in having a bearing on future events;One of the momentous event in human hystory;https://banneroftruth.org/us/wp-content/uploads/sites/2/2013/05/MomentousEvent.jpg
+130;Peripatetic;travelling from place to place, in particular working or based in various places for relatively short periods.;She lived a life as peripatetic;http://peripateticpraxis.weebly.com/uploads/1/2/3/7/12373987/9139180.jpg
+131;Quarry;a place, typically a large, deep pit, from which stone or other materials are or have been extracted.;There is a limestone quarry nearby;https://www.srk.com/sites/default/files/styles/header_image/public/header/news46-8-quarry-deepening.jpg
+132;Stoke;add coal or other solid fuel to (a fire, furnace, boiler, etc.).;She stoked up the stove.;https://www.webbaviation.co.uk/gallery/d/16590-1/stoke+on+trent+ba00837.jpg
+133;Virtriolic;filled with bitter criticism or malice, corrosive;Sam is of vitriolic nature ;http://s3.india.com/wp-content/uploads/2016/06/Donald-Trump.jpg
+134;Attenuate;reduce the force, effect, or value of, weaken;her hard work attenuated after the news;http://www.biotik.org/india/defs/atten_round.gif
+135;Commandeer;officially take possession or control of (something), especially for military purposes.;This village was commandeered many years ago.;https://cdn.dvidshub.net/media/thumbs/photos/1112/495994/1000w_q95.jpg
+136;Drivel;nonsense, talk nonsense;I do not have time to listen to your drivel.;https://theclumpany.files.wordpress.com/2016/09/img_5965.jpg
+137;Futile;incapable of producing any useful result; pointless.;Your futile actions are not driving any result.;http://futilemusic.com/wp-content/uploads/2016/11/ANB_Cover_180x180.png
+138;Interminable;endless or apparently endless (often used hyperbolically).;Some time i just want to drive on a interminable road.;https://thumbs.dreamstime.com/b/empty-never-ending-road-island-madeira-portugal-37787470.jpg
+139;Misrepresentation;the action or offence of giving a false or misleading account of the nature of something.;He put allegations on company for its misrepresentations.;https://www.webmechanix.com/wp-content/uploads/2013/12/data-misrepresentation-and-misleading-reporting.jpg
+140;Peremptory;insisting on immediate attention or obedience, especially in a brusquely imperious way, In a Commanding manner.;Peremptory order of court;https://www.coresdivorcelawyers.com/components/com_wordpress/wp/wp-content/uploads/2015/11/peremptory-substitution-300x201.jpg
+141;Quaint;attractively unusual or old-fashioned, picturesque;quaint houses near the beaches ;https://bk.asia-city.com/sites/default/files/quaint_web12.jpg
+142;Stevedore;a person employed at a dock to load and unload ships;He is a stevedore.;http://www.portcities.org.uk/london/upload/img_400/H5379.jpg
+143;Complacent;showing smug or uncritical satisfaction with oneself or one's achievements.;How can you be complacent about security;https://blogs-images.forbes.com/johnkotter/files/2012/01/Complacency.jpg
+144;Droll;curious or unusual in a way that provokes dry amusement.;You are just a droll;http://wfmu.org/Gfx/user_images/Violently-ill-pie_363585890769963.jpg
+145;Intermittent;occurring at irregular intervals; not continuous or steady.;Intermittent fasting can help in fat loss.;https://isithealthful.files.wordpress.com/2015/05/intermittent-fasting.jpg
+146;Mitigate;make (something bad) less severe, serious, or painful.;Rain will mitigate the air quality problem;https://dev.rodpub.com/images/130/355_main.jpg
+147;Perfidy;the state of being deceitful and untrustworthy, Treachery;His perfidy changes her life;https://cdn.xl.thumbs.canstockphoto.com/young-man-cheating-on-her-girlfriend-picture_csp9177747.jpg
+148;Quandary;a state of perplexity or uncertainty over what to do in a difficult situation, puzzle;She has been in quandary since she got here.;http://www.yourdictionary.com/images/definitions/lg/10587.quandary.jpg
+149;Stifle; make (someone) unable to breathe properly; suffocate, suppress;People were stifled because of declined air quality.;https://s.hswstatic.com/gif/dangerous-stifle-sneeze-1.jpg
+150;Virulent;(of a disease or poison) extremely severe or harmful in its effects.;A Virulent snake.;https://thumbs.dreamstime.com/b/virulent-snake-called-green-bamboo-which-one-top-ten-snakes-31888928.jpg
+151;Bane;a cause of great distress or annoyance.;In morning alarm becomes bane for me;https://startshining.com/wp-content/uploads/2016/06/Bane-wordsinpictures-1.jpg
+152;Condone;accept (behaviour that is considered morally wrong or offensive).;You must not condone crime.;https://englishwithasmile.files.wordpress.com/2015/04/condone.jpg
+153;Eclectic; deriving ideas, style, or taste from a broad and diverse range of sources.;Room with eclectic colors.;https://mir-s3-cdn-cf.behance.net/project_modules/disp/30a64f55339859.56097c8567108.jpg
+154;Genre; a style or category of art, music, or literature.;Different genre of movies;https://365psd.com/images/previews/60f/movie-genres-vector-icons-free-33970.jpg
+155;Irascible;having or showing a tendency to be easily angered.;Sam is of irascible;https://phocab-photos.s3.amazonaws.com/httpwwwterrycoloncomwordirasciblegif.jpg
+156;Perpetuate;make (something) continue indefinitely.;perpetuated nature;http://markmcmillion.com/wp-content/uploads/2014/11/dominoes-falling.jpg
+157;Rancor;bitterness or resentfulness, especially when long standing.;She talked to me with rancor;https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/VBRVHv3De/couple-resentment-young-woman-hits-young-man-with-slap-4k_nnblfypke__F0000.png
+158;Voluble;(of a person) talking fluently, readily, or incessantly.;She has become more voluble with time;https://startshining.com/wp-content/uploads/2016/08/voluble-characterized-by-ready-or-rapid-speech-talkative-vocabulary-pics.jpg
+159;Bard;a poet, traditionally one reciting epics and associated with a particular oral tradition.;He is one the famous bard;http://www.yourdictionary.com/images/definitions/lg/722.bard.jpg
+160;Edifice;a large, imposing building.;famous edifice;https://upload.wikimedia.org/wikipedia/commons/e/e0/Edifice_Sun_Life_Montreal_10.jpg
+161;Germane;relevant to a subject under consideration.;Your topic is not even germane to the conversation.;https://upload.wikimedia.org/wikipedia/commons/c/ca/Germane-2D-dimensions.png
+162;Ire;anger, rage;Controlling your ire is must.;https://i.ytimg.com/vi/pN8_71_rsyg/maxresdefault.jpg
+163;Munificent;characterized by or displaying great generosity.;Teach your children to be munificent.;https://i1.wp.com/lh5.ggpht.com/_pDbHxU8U8sg/TAcO6VNcQGI/AAAAAAAABok/x8Rcwu7S-Yw/munificent.jpg
+164;Rant; speak or shout at length in an angry, impassioned way.;Will you please stop ranting;http://www.realistic.uk.com/wp-content/uploads/2016/06/rant_5862228_lrg.jpg
+165;Stupefy;make (someone) unable to think or feel properly, astonish and shock;His bank balance is going to stupefying you.;https://higherhighslowerlows.files.wordpress.com/2010/10/dsc06405.jpg
+166;Voluminous;(of clothes) very loose or full; having much fabric. spacious;Voluminous table;https://ap.rdcpix.com/649009512/51e5bc87e5384c3244c7f01b0446bc8cl-m0xd-w1020_h770_q80.jpg
+167;Belie;(of an appearance) fail to give a true impression of (something).;"his lively, alert manner belied his years;https://i.ytimg.com/vi/S5P5QoUJxzk/hqdefault.jpg
+168;Consensus;a general agreement.;There is consensus about increasing population.;https://www.toolshero.com/wp-content/uploads/2017/09/consensus-oriented-decision-making-codm-toolshero-696x348.jpg
+169;Eloquent;fluent or persuasive in speaking or writing.;Do not get intimidate by eloquent speaker;http://englishharmony.com/wp-content/uploads/2012/11/intimidating-eloquent-english-speaker.jpg
+170;Gratuitous; done without good reason; uncalled for.;gratuitous action;https://i.ytimg.com/vi/3zxhrVc3Efs/maxresdefault.jpg
+171;Jeded;bored or lacking enthusiasm, typically after having had too much of something.;Students were jaded after 3 hour long class.;https://chamychula.files.wordpress.com/2011/08/jaded-504766417821.jpg
+172;Negligence;failure to take proper care over something.;You are going to fail because of your negligence;https://dss.fosterwebmarketing.com/upload/jimdodsonlaw.com/shutterstock-negligence-laws.jpg
+173;Petrify;make (someone) so frightened that they are unable to move.; A petrifying scene;https://jhna.org/wp-content/uploads/2017/06/vanEck8.2-FI-720x540.jpeg
+174;Receptacle; a hollow object used to contain something.;I need more receptacles for food;https://i.stack.imgur.com/grVqS.jpg
+175;Suffragist;a person advocating the extension of suffrage, especially to women.;Suffragist marched from one village to another;https://i2-prod.dailypost.co.uk/incoming/article4864574.ece/ALTERNATES/s615/suffragettes.jpg
+176;Weighty;of great seriousness and importance. heavy;A weighty person;http://stanfordmedicine.org/communitynews/2014fall/images/obesity-1.jpg
+177;Belittle;dismiss (someone or something) as unimportant.;People who belittle others are only belittling themselves.;http://www.actforlibraries.org/wp-content/uploads/Belittle.jpg
+178;Conspicuous;clearly visible, easily seen, prominent;She is skinny girl with conspicuous eyes.;http://www.yourdictionary.com/images/definitions/lg/11831.conspicuous.jpg
+179;Elucidate;make (something) clear; explain.;Will you please elucidate this topic to me;https://i.ytimg.com/vi/LSRzTehEtTo/maxresdefault.jpg
+180;Jargon;special words or expressions used by a profession or group that are difficult for others to understand. "legal jargon";IT related Jargons;http://www.presenting-yourself.com/wp-content/uploads/2013/05/Fotolia_47687103_XS.jpg
+181;Neologism;a newly coined word or expression;Neologism friday;https://s3.amazonaws.com/lowres.cartoonstock.com/education-teaching-twerk-twerp-dictionaries-new_word-definitions-tcrn1284_low.jpg
+182;Petulant;(of a person or their manner) childishly sulky or bad-tempered.;Her kid is petulant;http://www.shomayim.org/sites/default/files/styles/748x/public/petulance.jpg
+183;Recluse;a person who lives a solitary life and tends to avoid other people.;It is not easy to live life of a recluse;https://i.ytimg.com/vi/Sd_PClI4Ut0/maxresdefault.jpg
+184;Supercillious;behaving or looking as though one thinks one is superior to others;Supercilious person;https://i.ytimg.com/vi/673bSLj0mH4/hqdefault.jpg
+185;Whelp; a puppy, boy or young man (often as a disparaging form of address).;She brought home a whelp with her.;http://www.yourdictionary.com/images/definitions/lg/10822.whelp.jpg
+186;Conflagration;an extensive fire which destroys a great deal of land or property.;I read about the conflagration in news that destroyed half of the town;http://www.townofhawley.com/wp-content/uploads/2016/06/IMG_0419-1.jpg
+187;Efface;erase (a mark) from a surface, wipe out, remove all trace of;Marks on the wall were effaced with rain;https://phocab-photos.s3.amazonaws.com/https3amazonawscombrainyflixphotos1073mediumjpg.jpg
+188;Germinal;in the earliest stage of development.;a germinal project;https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Gray1163.png/250px-Gray1163.png
+189;Irksome;irritating; annoying.;This whole discussion is very irksome for me;http://www.naturalphilosophy.org/site/harryricker/wp-content/uploads/sites/50/2015/07/popper.jpeg
+190;Mutinous;(of a soldier or sailor) refusing to obey the orders of a person in authority, rebellious;We need to find out the mutinous people from group;https://img00.deviantart.net/baa4/i/2015/256/8/5/grell_by_mutinous_katma-d99gt9x.jpg
+191;Personable;(of a person) having a pleasant appearance and manner.;a personable receptionist.;http://www.endeavorga.com/images/services-claims.jpg
+192;Ratify;sign or give formal consent to (a treaty, contract, or agreement), making it officially valid.;New rules will be ratified by the end of the year;https://img-aws.ehowcdn.com/877x500p/photos.demandstudios.com/getty/article/178/213/78469047.jpg
+193;Sobpoena;a writ ordering a person to attend a court.;I got a subpoena from the court;http://www.heavensentlegal.com/wp-content/uploads/2015/01/Banner-Images01.jpg
+194;Veracious;speaking or representing the truth.;I hug Veracious books;https://themindsjournal.com/wp-content/uploads/2017/11/2850.jpg
+195;Beffudle;cause to become unable to think clearly.;I was totally befuddled at that time;http://cdn.playbuzz.com/cdn//17d6450b-6876-4c62-a93c-6c17acba0d8b/017ab24a-2ea0-4c88-a21b-dbdfc25f6899.jpg
+196;Confound;cause surprise or confusion in (someone), especially by not according with their expectations.;GST regulations confounded economists.;https://www.unquote.com/IMG/822/14822/confound-web-580x358.jpg
+197;Effigy;a sculpture or model of a person.;3D effigy of women;https://img1.cgtrader.com/items/251722/d4a24b5ad0/large/effigy-sculpture-3d-model-obj-fbx-lwo-lw-lws.jpg
+198;Gibber;speak rapidly and unintelligibly, typically through fear or shock.;Enough with your gibber gabber;https://www.horsesforsources.com/storage/app/uploads/public/57b/730/e29/57b730e292b06951613141.png
+199;Ironic;satiric, unexpected, using or characterized by irony.;Irony alert!;https://bernarditamorales.weebly.com/uploads/2/6/7/3/26731388/phoneoutofservice-irony_orig.jpg
+200;Myriad;a countless or extremely great number of people or things.;myriad of insects.;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM1-cEv53rO_ChWtRr--LwJRaJ7E9ox1Pv8XjnvaA1iaOMEJIVUg

@@ -1,0 +1,25 @@
+126;Austere;severe or strict in manner or attitude.;This is a painting by an austere artist.;http://cache.boston.com/resize/bonzai-fba/Globe_Photo/2009/01/16/1232164767_3655/539w.jpg
+127;Dubious;hesitating or doubting.;dean was dubious about the plan.;http://4.bp.blogspot.com/-Kmh8AwoY9a0/UGWqSblrqXI/AAAAAAAACPw/8wW5OSWFT4Y/s1600/3-dean-looks-dubious-and-adorable.jpg
+128;Garble; reproduce (a message, sound, or transmission) in a confused and distorted way.;garbled handwriting was difficult to understand;https://i.pinimg.com/originals/26/56/bf/2656bf9b0f3200f6a7bddd584666245d.jpg
+129;Momentous;of great importance or significance, especially in having a bearing on future events;One of the momentous event in human hystory;https://banneroftruth.org/us/wp-content/uploads/sites/2/2013/05/MomentousEvent.jpg
+130;Peripatetic;travelling from place to place, in particular working or based in various places for relatively short periods.;She lived a life as peripatetic;http://peripateticpraxis.weebly.com/uploads/1/2/3/7/12373987/9139180.jpg
+131;Quarry;a place, typically a large, deep pit, from which stone or other materials are or have been extracted.;There is a limestone quarry nearby;https://www.srk.com/sites/default/files/styles/header_image/public/header/news46-8-quarry-deepening.jpg
+132;Stoke;add coal or other solid fuel to (a fire, furnace, boiler, etc.).;She stoked up the stove.;https://www.webbaviation.co.uk/gallery/d/16590-1/stoke+on+trent+ba00837.jpg
+133;Virtriolic;filled with bitter criticism or malice, corrosive;Sam is of vitriolic nature ;http://s3.india.com/wp-content/uploads/2016/06/Donald-Trump.jpg
+134;Attenuate;reduce the force, effect, or value of, weaken;her hard work attenuated after the news;http://www.biotik.org/india/defs/atten_round.gif
+135;Commandeer;officially take possession or control of (something), especially for military purposes.;This village was commandeered many years ago.;https://cdn.dvidshub.net/media/thumbs/photos/1112/495994/1000w_q95.jpg
+136;Drivel;nonsense, talk nonsense;I do not have time to listen to your drivel.;https://theclumpany.files.wordpress.com/2016/09/img_5965.jpg
+137;Futile;incapable of producing any useful result; pointless.;Your futile actions are not driving any result.;http://futilemusic.com/wp-content/uploads/2016/11/ANB_Cover_180x180.png
+138;Interminable;endless or apparently endless (often used hyperbolically).;Some time i just want to drive on a interminable road.;https://thumbs.dreamstime.com/b/empty-never-ending-road-island-madeira-portugal-37787470.jpg
+139;Misrepresentation;the action or offence of giving a false or misleading account of the nature of something.;He put allegations on company for its misrepresentations.;https://www.webmechanix.com/wp-content/uploads/2013/12/data-misrepresentation-and-misleading-reporting.jpg
+140;Peremptory;insisting on immediate attention or obedience, especially in a brusquely imperious way, In a Commanding manner.;Peremptory order of court;https://www.coresdivorcelawyers.com/components/com_wordpress/wp/wp-content/uploads/2015/11/peremptory-substitution-300x201.jpg
+141;Quaint;attractively unusual or old-fashioned, picturesque;quaint houses near the beaches ;https://bk.asia-city.com/sites/default/files/quaint_web12.jpg
+142;Stevedore;a person employed at a dock to load and unload ships;He is a stevedore.;http://www.portcities.org.uk/london/upload/img_400/H5379.jpg
+143;Complacent;showing smug or uncritical satisfaction with oneself or one's achievements.;How can you be complacent about security;https://blogs-images.forbes.com/johnkotter/files/2012/01/Complacency.jpg
+144;Droll;curious or unusual in a way that provokes dry amusement.;You are just a droll;http://wfmu.org/Gfx/user_images/Violently-ill-pie_363585890769963.jpg
+145;Intermittent;occurring at irregular intervals; not continuous or steady.;Intermittent fasting can help in fat loss.;https://isithealthful.files.wordpress.com/2015/05/intermittent-fasting.jpg
+146;Mitigate;make (something bad) less severe, serious, or painful.;Rain will mitigate the air quality problem;https://dev.rodpub.com/images/130/355_main.jpg
+147;Perfidy;the state of being deceitful and untrustworthy, Treachery;His perfidy changes her life;https://cdn.xl.thumbs.canstockphoto.com/young-man-cheating-on-her-girlfriend-picture_csp9177747.jpg
+148;Quandary;a state of perplexity or uncertainty over what to do in a difficult situation, puzzle;She has been in quandary since she got here.;http://www.yourdictionary.com/images/definitions/lg/10587.quandary.jpg
+149;Stifle; make (someone) unable to breathe properly; suffocate, suppress;People were stifled because of declined air quality.;https://s.hswstatic.com/gif/dangerous-stifle-sneeze-1.jpg
+150;Virulent;(of a disease or poison) extremely severe or harmful in its effects.;A Virulent snake.;https://thumbs.dreamstime.com/b/virulent-snake-called-green-bamboo-which-one-top-ten-snakes-31888928.jpg

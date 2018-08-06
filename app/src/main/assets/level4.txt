@@ -1,0 +1,25 @@
+76;Stereotype;a widely held but fixed and oversimplified image or idea of a particular type of person or thing.;I am just not the type who follows stereotypes;http://momentousinstitute.org/assets/site/blog/why-stereotypes-are-harmful-header.jpg
+77;Vindicate;clear (someone) of blame or suspicion.;Sherlock vindicated the man from the murder suspicion ;https://i.ytimg.com/vi/xvpSwNlYiB8/maxresdefault.jpg
+78;Banality;the fact or condition of being banal; unoriginality.;There is banality in his explanation of the incident;http://www.azquotes.com/picture-quotes/quote-my-whole-being-was-seeking-for-something-still-unknown-which-might-confer-meaning-upon-carl-jung-39-26-85.jpg
+79;Condesend;show that one feels superior; be patronizing.;Are you not tired of being condesending;http://www.ncourtenaychurchofchrist.com/wp-content/uploads/2015/08/condescending.jpg
+80;Eccentric;(of a person or their behaviour) unconventional and slightly strange, unusual, quirky, odd;She might be impressed with his eccentric behaviour. ;https://www.newtonhypnosis.com/wp-content/uploads/2013/09/h8.jpg
+81;Gaunt;(of a person) lean and haggard, especially because of suffering, hunger, or age.;I saw a lot of gaunt makeup videos on the internet ;https://img00.deviantart.net/db30/i/2016/121/0/8/merope_gaunt_character_portrait_sketch_by_emmanuel_oquendo-da0hunj.png
+82;Inviolable ;never to be broken, infringed, or dishonoured, cannot be invaded;They claim to have inviolable security thing;http://2.bp.blogspot.com/_MZjRvOkWsvA/TNnawVg8xnI/AAAAAAAAAqc/O453TYEdpvo/s1600/600px-Hand_prohibition.PNG
+83;Morose;sullen and ill-tempered.gloomy;She was morose when she reached office;https://phocab-photos.s3.amazonaws.com/httpfc05deviantartnetfs70f201220434morose_mulan_by_kaikaru-d58ci97jpg.jpg
+84;Persnickety;placing too much emphasis on trivial or minor details, fastidious, fussy;I do not want to seem persnickety about my clothes;https://i.pinimg.com/originals/ed/a8/02/eda802ee3ed5941dcfdb15492c6240f9.jpg
+85;Ramification;a complex or unwelcome consequence of an action or event. subdivisions of a complex system;His actions in court can lead to ramifications.;https://www.xlnorth.com/wp-content/uploads/2017/05/ramifications.jpg
+86;Stringent;(of regulations, requirements, or conditions) strict, precise, and exacting. Severe;Stringent policies for security.;http://olwenwilliams.com/wp-content/uploads/2016/03/int-priv-633x452.jpg
+87;Volatile;(of a substance) easily evaporated at normal temperatures. dangerously unstable.;decisions are being taken for these volatile situations.;https://img.chandoo.org/g/volatile-functions-are-dynamite.jpg
+88;Banal;so lacking in originality as to be obvious and boring.;She finds her work banal;https://i.ytimg.com/vi/72sfgHuScu0/maxresdefault.jpg
+89;Concise;giving a lot of information clearly and in a few words; brief but comprehensive.;Recruiter asked me to be concise in the interview;http://1.bp.blogspot.com/-bLPVKKfLakE/T-0JWedUwXI/AAAAAAAAADI/Clp7TnY048o/s1600/Short-and-to-the-point.jpg
+90;Ebullient;cheerful and full of energy. Very lively;My friend was ebullient after the college;https://www.safirglobal.com/media/k2/items/cache/0b1ad7a7b79268a1f4558db78e092446_XL.jpg
+91;Garrulous;excessively talkative, especially on trivial matters.;sunny is a garrulous colleague;https://learnbookme.files.wordpress.com/2016/12/garrulous.jpg
+92;Invidious;(of an action or situation) likely to arouse or incur resentment or anger in others. arousing envy;I really wanted to escape that invidious situaiton ;http://photos1.blogger.com/x/blogger2/7583/4389/400/801130/envy.jpg
+93;pernicious;having a harmful effect, especially in a gradual or subtle way. destructive.;Pernicious effects of taking drugs;http://images.slideplayer.com/38/10807115/slides/slide_5.jpg
+94;Ramble;walk for pleasure in the countryside. wander aimlessly;Why are you rambling in the garden area;http://rohantime.com/wp-content/uploads/Countryfile-Ramble.jpg
+95;Strident;(of a sound) loud and harsh; grating.;I can not listen to his strident voice anymore;https://tv-fanatic-res.cloudinary.com/iu/s--iLc6bNWg--/t_large_l/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1371216623/choking-bart.png
+96;Vociferous;expressing or characterized by vehement opinions; loud and forceful.;Political leader was vociferous;https://nicemen.files.wordpress.com/2015/03/vociferous-woman-skmclasses-bangalore.jpg
+97;Aversion;a strong dislike or disinclination.;Aversion of most children is green vegetables;http://i.dailymail.co.uk/i/pix/2014/02/13/article-0-04C282170000044D-207_306x423.jpg
+98;Concatenation;a series of interconnected things.;Concatenation of events led to the disaster.;http://scienceblogs.com/goodmath/wp-content/blogs.dir/476/files/2012/04/i-4be4d99016e2ea69148df16e5e745a17-concat.png
+99;Dupe;deceive, trick, to fool someone.;His friends duped him to go to the library.;http://www.repmanblog.com/wp-content/uploads/2015/01/peanuts-lucy-charlie-brown-football.jpg
+100;Garish;obtrusively bright and showy, lurid, gaudy;I was thinking about purchasing a garish dress;http://ourfrontcover.com/wp-content/uploads/2016/11/kitch-ban.png

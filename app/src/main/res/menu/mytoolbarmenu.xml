@@ -1,0 +1,49 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <group
+        android:id="@+id/home_settings_group"
+        android:checkableBehavior="single"
+
+        >
+        <item
+            android:id="@+id/action_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:orderInCategory="100"
+            android:title="Home"
+            app:showAsAction="never" />
+    </group>
+    <group
+        android:id="@+id/action_settings_group"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/action_about"
+            android:icon="@drawable/ic_language_black_24dp"
+            android:orderInCategory="100"
+            android:title="About App"
+            app:showAsAction="never" />
+    </group>
+    <group
+        android:id="@+id/share_setting_group"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/share_setting"
+            android:icon="@drawable/ic_share_black_24dp"
+            android:orderInCategory="100"
+            android:title="Share"
+            app:showAsAction="never" />
+    </group>
+    <group
+        android:id="@+id/contact_group"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/contact"
+            android:icon="@drawable/ic_mail_outline_black_24dp"
+            android:orderInCategory="100"
+            android:title="Contact"
+            app:showAsAction="never" />
+    </group>
+
+
+</menu>

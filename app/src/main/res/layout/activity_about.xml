@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical"
+    tools:context="com.betterlife.dell.ultimateenglishlearningapp.activities.About">
+
+    <TextView
+        android:id="@+id/abouttitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:text="Ultimate English Learning"
+        android:textColor="#000000"
+        android:background="@drawable/custombottomborder"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:text="Advance Vocabulary words with meaning, exmaple and photo"
+        android:textColor="#414141"
+        android:textSize="18dp" />
+
+    <TextView
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:text="Notifications and Grammer Rules"
+        android:textColor="#414141"
+        android:textSize="18dp" />
+
+    <TextView
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:text="Interesting chat Feature"
+        android:textColor="#414141"
+        android:textSize="18dp" />
+
+    <TextView
+        android:id="@+id/aboutclose"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:layout_margin="10dp"
+        android:text="close"
+        android:textStyle="bold"
+        android:onClick="closeabout"
+        android:textColor="#000000"
+        android:textSize="20dp" />
+</LinearLayout>

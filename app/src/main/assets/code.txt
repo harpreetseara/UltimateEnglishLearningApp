@@ -1,0 +1,46 @@
+ @Override
+        public Class getColumnClass(int columnIndex) {
+            switch (columnIndex) {
+                case 0:
+                    return String.class;
+                case 1:
+                    return String.class;
+                case 2:
+                    return String.class;
+                case 3:
+                    return String.class;
+                case 4:
+                    return String.class;
+                case 5:
+                    return Boolean.class;
+                default:
+                    return null;
+            }
+        }
+
+        @Override
+        public boolean isCellEditable(int rowIndex, int columnIndex) {
+            return columnIndex == 5;
+        }
+
+        @Override
+        public void setValueAt(Object aValue, int rowIndex, int columnIndex) {
+            if (columnIndex == 5) {
+                stuList.get(rowIndex).ischecked = (Boolean) aValue;
+                fireTableCellUpdated(rowIndex, columnIndex);
+            }
+        }
+
+
+
+-----------
+  for (int i = 0; i < jTable2.getRowCount(); i++) {
+            jTable2.getModel().setValueAt(Boolean.TRUE, i, 5);
+        }
+
+
+----------------------------
+
+  for (int i = 0; i < jTable2.getRowCount(); i++) {
+            jTable2.getModel().setValueAt(Boolean.FALSE, i, 5);
+        }
